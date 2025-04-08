@@ -17,7 +17,6 @@ from sklearn.preprocessing import StandardScaler
 from google.colab import drive
 
 # drive.mount('/content/drive')
-# https://drive.proton.me/urls/3QAWVMQPMM#lVDs8z54gOm7
 
 # Replace with the actual path to your PNG image
 image_path = '/home/SOB_M_DC-14-2523-40-010.png'
